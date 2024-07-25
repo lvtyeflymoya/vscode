@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# 训练数据
+
 x_data = torch.tensor([[1.0], [2.0], [3.0]])
 y_data = torch.tensor([[0], [0], [1]])
 
@@ -48,3 +48,7 @@ plt.xlabel('hours')
 plt.ylabel('Probability of Pass')
 plt.grid()
 plt.show()
+
+
+# 测试git
+# tetst
