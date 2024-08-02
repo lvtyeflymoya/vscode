@@ -1,0 +1,1 @@
+D:\vscode\python\OCR_recognize\learning\081_088：OCR文字识别项目实战\ocr\train_code\train_ctpn\train_data\train_img\img_7199.jpg
